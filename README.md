@@ -4,7 +4,7 @@
 
 # <p align="center"> Всем привет! 👋</p>
 
-### <p align=center> :chart_with_upwards_trend:	I'm a junior data analyst </p>
+### <p align=center> :chart_with_upwards_trend:	Я начинающий аналитик данных </p>
 
 ### :metal: Умею:
 <ul>
