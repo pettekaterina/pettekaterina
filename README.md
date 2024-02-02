@@ -23,10 +23,11 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |Анализ продаж пиццерии - Pizza sales analysis (__[github](https://github.com/pettekaterina/Pizza_sailes)__)|Анализ распределения выручки по временным отрезкам: часам, дням недели, месяцам, категориям и размерам. Выявление топ 5 наименований по популярности.|pandas ,numpy, seaborn, matplotlib|
+|Nutrition data analysis in the datacamp competition (__[github](https://github.com/pettekaterina/datacamp_competition)__)|Dataset cleaning and analysis using python libraries. All analysis has been done in English|pandas ,numpy, seaborn, matplotlib, scipy|
 |Анализ ценообразования и популярности ПК для интернет-магазина (__[github](https://github.com/pettekaterina/internship_project)__)|Очистка датасета при помощи библиотек python. Нахождение зависимостей между характеристиками ПК, их ценой и количеством продаж при помощи расчетов коэффициентов корреляции и построения регрессионной модели|pandas ,numpy, seaborn, matplotlib, scipy|
 |А/В тестирование  (__[github](https://github.com/pettekaterina/analyst_simulator)__)|Проведение А/А и А/В тестов, использование метрик-отношений, анализ результатов |pandas, plotly, scipy, sql|
 |Автоматизация отчетности и поиск аномалий (__[github](https://github.com/pettekaterina/airflow-alerts)__)|Написание скриапта для автоманизации формирования отчетности и обнаружение алертов и их отправки в Телеграм |pandas, pandahouse, numpy, io, requests, telegram, matplotlib, seaborn, sql |
-|Nutrition data analysis in the datacamp competition (__[github](https://github.com/pettekaterina/datacamp_competition)__)|Dataset cleaning and analysis using python libraries. All analysis has been done in English|pandas ,numpy, seaborn, matplotlib, scipy|
+
 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
